@@ -65,3 +65,5 @@ Um projeto nostálgico desenvolvido com a Alura para a criação de sprites 2D p
 **Observação:** Substitua `![Formulário de Entrada]`, `![Resultado do Processamento]`, `![Imagem Gerada pela IA]` e `![Resultado Final (GIF)]` pelos caminhos reais das suas imagens.
 
 ### ✨ Tecnologias Utilizadas (Em Modo Texto!):
+
+![Imagem 1](mage.png) ![Imagem 2](mage.png) ![Imagem 3](mage.png)
