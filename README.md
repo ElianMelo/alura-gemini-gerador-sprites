@@ -1,6 +1,6 @@
 ## 👾✨ Gerador de Sprites 2D com IA - Projeto Alura (Estilo Retro) ✨👾
 
-Um projeto incrível desenvolvido com a Alura para a criação de sprites 2D para jogos utilizando a inteligência artificial! Este projeto inovador emprega uma arquitetura com **três agentes de IA** especializados para otimizar o processo de geração de sprites de alta qualidade e consistentes.
+Um projeto incrível desenvolvido para a Imersão de IA da Alura para a criação de sprites 2D para jogos utilizando a inteligência artificial! Este projeto inovador emprega uma arquitetura com **três agentes de IA** especializados para otimizar o processo de geração de sprites de alta qualidade e consistentes.
 
 ### ⚠️ GRANDE AVISO IMPORTANTE ⚠️
 
@@ -31,8 +31,11 @@ Um projeto incrível desenvolvido com a Alura para a criação de sprites 2D par
 5.  O prompt final pode ser utilizado em diversos modelos de IA de geração de imagens para criar seus sprites 2D!
 
 <p align="center">
-  <img src="mage.png" alt="Imagem 1" width="300">
-  <img src="mage.png" alt="Imagem 2" width="300">
-  <img src="mage.png" alt="Imagem 3" width="300">
-  <img src="mage.png" alt="Imagem 3" width="300">
+  <img src="form.png" alt="Formulário com descrição do seu personagem" width="300">
+  <img src="description.png" alt="Descrição gerada pelos agentes de IA" width="300">
+  <img src="viking.png" alt="Resultado do prompt da IA dentro de um gerador" width="300">
+  <br>
+  <img src="viking1.gif" alt="Viking soltando espinhos de gelo" width="300">
+  <img src="viking2.gif" alt="Viking criando escudo de gelo" width="300">
+  <img src="viking3.gif" alt="Viking encantando seu machado" width="300">
 </p>
